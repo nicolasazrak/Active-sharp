@@ -1,0 +1,11 @@
+<FrbaConfig version="0.1">
+	<persistence-unit>
+		<properties>
+			<server>localhost\SQLSERVER2008</server>
+			<username>root</username>
+			<password>root</password>
+			<database>testing_db</database>
+			<schema>testing_schema</schema>
+		</properties>
+	</persistence-unit>
+</FrbaConfig>
